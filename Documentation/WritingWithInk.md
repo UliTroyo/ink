@@ -1276,7 +1276,7 @@ A "divert" statement is actually a type of value in itself, and can be stored, a
 
 Global variables can be accessed, and altered, from the runtime as well from the story, so provide a good way to communicate between the wider game and the story.
 
-The **ink** layer is often be a good place to store gameplay-variables; there's no save/load issues to consider, and the story itself can react to the current values.
+The **ink** layer can often be a good place to store gameplay-variables; there's no save/load issues to consider, and the story itself can react to the current values.
 
 
 
