@@ -1320,7 +1320,7 @@ is explicitly disallowed; it would be evaluated on the construction of the story
 
 Obviously, our global variables are not intended to be constants, so we need a syntax for altering them.
 
-Since by default, any text in an **ink** script is printed out directly to the screen, we use a markup symbol to indicate that a line of content is intended meant to be doing some numerical work, we use the `~` mark.
+Since by default, any text in an **ink** script is printed out directly to the screen, if we want to indicate that a line of content is meant to be doing some numerical work, we use the `~` mark.
 
 The following statements all assign values to variables:
 
